@@ -1,0 +1,10 @@
+{"namespace": "avroformats",
+ "type": "record",
+ "name": "Intern",
+ "fields": [
+     {"name": "ID","type": "int"},
+     {"name": "Name", "type": "string"},
+     {"name": "City",  "type": "string"},
+     {"name": "Company", "type": "string"}
+ ]
+}
